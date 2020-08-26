@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://jimao.me/hello-world/</loc>
+    
+    <lastmod>2020-08-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jimao.me/404.html</loc>
+    
+    <lastmod>2020-08-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jimao.me/test/</loc>
+    
+    <lastmod>2019-05-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jimao.me/about/index.html</loc>
+    
+    <lastmod>2019-05-01</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>https://jimao.me/</loc>
+    <lastmod>2020-08-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+
+  
+</urlset>
