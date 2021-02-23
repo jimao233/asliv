@@ -12,9 +12,8 @@ language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
-## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://jimao.me
-root: /
+## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
+url: https://blog.jimao.me
 permalink: :title/
 permalink_defaults:
 pretty_urls:
@@ -98,12 +97,9 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repo: https://github.com/jimao233/blog.jimao.me.git
-  branch: master #published
-  message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }})"
+  type: ''
