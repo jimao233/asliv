@@ -4,7 +4,7 @@
 
 # Site
 title: 鸡毛的破博客
-subtitle: ''
+subtitle: '由Hexo强力驱动'
 description: ''
 keywords:
 author: 鸡毛
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
