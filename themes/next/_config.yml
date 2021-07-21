@@ -70,9 +70,7 @@ footer:
   powered: true
 
   # Beian ICP and gongan information for Chinese users. See: https://beian.miit.gov.cn, http://www.beian.gov.cn
-  
-  <a href="https://icp.gov.moe" target="_blank">萌ICP备 </a><a href="https://icp.gov.moe/?keyword=20210129" target="_blank"> 20210129号</a>
-  
+
   beian:
     enable: false
     icp:
